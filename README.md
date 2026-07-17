@@ -84,11 +84,11 @@ Most members will never notice this feature exists. Its job is to keep launch da
 
 ## Outcome
 
-[This section follows once the live link is up. Add post-launch metrics: submissions in week one, cost per submission at scale, member feedback, anything else worth citing]
+[This section follows once the live link is up. What can be expected are post-launch metrics: submissions in week one, cost per submission at scale, member feedback, anything else worth citing]
 
 ## Lessons learned
 
-[First-pass draft below, replace with your own reflections once you've lived with the launch]
+[Living section - this will continue to be fleshed out as the tool comes to launch and after the event.]
 
 The cost decision taught me to model unit economics before I fell in love with a specific model's output quality. £0.52 a submission is invisible in testing and very visible at 80,000 followers.
 
